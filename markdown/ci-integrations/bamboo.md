@@ -38,7 +38,7 @@ After the plugin has been installed, we will need to restart Bamboo for the plug
 
 Once Bamboo has been restarted, we can then configure the plugin to work with our environment.
 
-## Configuring the Bamboo Sauce OnDemand plugin
+## Configuring the OnDemand plugin
 
 After the Sauce plugin has been installed, the username and access key of the Sauce OnDemand user account must be entered within the Bamboo administration interface.
 
